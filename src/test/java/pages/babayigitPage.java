@@ -15,4 +15,6 @@ public class babayigitPage {
 
     @FindBy (id="search")
     public WebElement searchBox;
+
+
 }
